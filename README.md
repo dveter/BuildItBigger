@@ -11,11 +11,11 @@ The source code under this repository is a result of the 4th project of Udacity 
 
 ## Required Behavior
 
-App retrieves jokes from Google Cloud Endpoints modulea and displays them via an Activity from the Android Library.
+App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
 Optional Components
 
 ## To exceed specs:
 
 - Make the free app variant display interstitial ads between the main activity and the joke-displaying activity.
 - Have the app display a loading indicator while the joke is being fetched from the server.
-- Write a Gradle task that starts the GCE dev server, runs all the Android tests, and shuts down the dev server (runAndroidTest task).
+- Write a Gradle task that starts the GCE dev server, runs all the Android tests, and shuts down the dev server ('runAndroidTests' task).

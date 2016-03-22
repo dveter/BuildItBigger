@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokesActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_loadingj_joke">Error loading joke.</string>
+    <string name="error_loading_joke">Error loading a joke.</string>
+</resources>
